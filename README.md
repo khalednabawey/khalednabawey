@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Machine Learning](https://media.giphy.com/media/PjJ1cLHqLEveXysGDB/giphy-downsized-large.gif)
+  ![Machine Learning](https://media.giphy.com/media/PjJ1cLHqLEveXysGDB/giphy-downsized-large.gif)
 
 <h1 align="center">Hi 👋, I'm Khaled Nabawi</h1>
 <h3 align="center">A passionate Data Science and machine learning learner From Egypt</h3>
