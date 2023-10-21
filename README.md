@@ -35,6 +35,5 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khalednabawey&show_icons=true&locale=en" alt="khalednabawey" /></p>
 
-<div style="width: 100%; text-align: center;">
-    <img src="https://media.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif" alt="Data Flow" style="max-width: 100%; height: auto;" />
-</div>
+<img src="https://media.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif" alt="Data Flow" style="max-width: '100%'; height: auto;" />
+
