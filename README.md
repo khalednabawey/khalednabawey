@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Machine Learning]([https://example.com/machine_learning_image.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.analyticsinsight.net%2Fdigital-ai-unveils-the-latest-version-of-ai-enhanced-devops-product%2F&psig=AOvVaw2menJGQ89YniUB8r-R5rEZ&ust=1697987678658000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOjYsMu3h4IDFQAAAAAdAAAAABAQ))
+![Machine Learning]([https://example.com/machine_learning_image.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.analyticsinsight.net%2Fdigital-ai-unveils-the-latest-version-of-ai-enhanced-devops-product%2F&psig=AOvVaw2menJGQ89YniUB8r-R5rEZ&ust=1697987678658000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOjYsMu3h4IDFQAAAAAdAAAAABAQ]))
 
 <h1 align="center">Hi 👋, I'm Khaled Nabawi</h1>
 <h3 align="center">A passionate Data Science and machine learning learner From Egypt</h3>
