@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Khaled Nabawi</h1>
 <h3 align="center">A passionate Data Science and machine learning learner From Egypt</h3>
 
-- 🌱 I’m currently learning **Data Science | Machine Learning Tools and techniques (SKlearn, TensorFlow)**
+- 🌱 I’m currently learning **Data Science | Machine Learning Tools and techniques**
 
 - 📫 How to reach me **5alednabawi@gmail.com**
 
