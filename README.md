@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **khalednabawey/khalednabawey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  ![Machine Learning](https://media.giphy.com/media/PjJ1cLHqLEveXysGDB/giphy-downsized-large.gif)
+<img src="https://assets.gatesnotes.com/8a5ac0b3-6095-00af-c50a-89056fbe4642/11eeb7f9-7512-49aa-abdc-a27001dd123e/AI_20230215_article-hero_1200x564.jpg" alt="Machine Learning" />
 
 <h1 align="center">Hi 👋, I'm Khaled Nabawi</h1>
 <h3 align="center">A passionate Data Science and machine learning learner From Egypt</h3>
